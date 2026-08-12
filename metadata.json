@@ -1,0 +1,6 @@
+{
+  "name": "ลำดับโปเจียม",
+  "description": "เว็บแสดงลำดับโปเจียม ดึงข้อมูลเรียลไทม์จาก Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
